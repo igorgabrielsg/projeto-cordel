@@ -95,8 +95,9 @@ section.txt p:nth-child(1) {
 }
 
 #imagem1 {
-    background: darkgrey url("imagens/background001.jpg") right center no-repeat fixed;
+    background: darkgrey url("imagens/Designer\ \(2\).jpeg") center center no-repeat fixed;
     background-size: cover;
+    
 }
 
 #imagem2 {
